@@ -1,8 +1,6 @@
 <h1 align="center"> Calculadora </h1>
 
-<p align="center">
-Calculadora criada utilizando apenas HTML e CSS, com base nos ensinamentos do [vídeo](https://youtu.be/OhRnDAHsKDA) do canal [@FRONTTEC](https://www.youtube.com/@FRONTTEC) no Youtube. 
-</p>
+Calculadora criada utilizando apenas HTML e CSS, com base nos ensinamentos do [vídeo - Criando uma Calculadora usando [HTML & CSS]](https://youtu.be/OhRnDAHsKDA) do canal [@FRONTTEC](https://www.youtube.com/@FRONTTEC/) no Youtube. 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
